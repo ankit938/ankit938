@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankit938/ankit938/blob/main/README.md](https://github.com/ankit938?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ankit938?tab=repositories](https://github.com/ankit938?tab=repositories)
 
 - 📫 How to reach me **ankitmishra1022002@gmail.com**
 
